@@ -1,6 +1,8 @@
 # CSharpSDK
 C# SDK For C# Applications
 
+_Please note, not all features are available on basic plans. Uploading images, binary files & logs require Plus or Pro plans._
+
 Once imported do the following
 
 Initilise the SDK:
@@ -23,7 +25,7 @@ new Dictionary<string, string>
 };
 ```
 
-You can also add these:
+You can also add these to upload images, binary files and logs ( on supported plans ):
 ```c#
 // E.g. read in a screenshot or image to send
 byte[] imageBytes = System.IO.File.ReadAllBytes(@"screenshot.png");
