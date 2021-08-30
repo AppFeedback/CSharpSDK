@@ -1,6 +1,8 @@
 # CSharpSDK
 C# SDK For C# Applications
 
+Register for an account here: https://my.appfeedback.io/sign-up
+
 _Please note, not all features are available on basic plans. Uploading images, binary files & logs require Plus or Pro plans._
 
 Once imported do the following
